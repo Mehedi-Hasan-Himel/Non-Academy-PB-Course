@@ -1,0 +1,37 @@
+Task: 01
+
+// Low Level vs High Level Programming Language:
+
+/* 
+  High Level Programming Language:
+  
+   1. Programmer Friendly.
+   2. Easy to Understand.
+   3. Easy to Debug
+   4. Easy to Execute.
+   5. Compiler / Interpreter.
+   6. Low memory Efficiency.
+*/
+
+/*
+   Low Level Programming Language:
+
+   1. Machine Friendly.
+   2. Hard to Understand.
+   3. Taugh to Debug.
+   4. Hard to Execute.
+   5. Assembler.
+   6. High memory Efficiency.    
+*/
+
+
+
+Task: 02
+
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        System.out.println("I'm himel");
+    }
+}
